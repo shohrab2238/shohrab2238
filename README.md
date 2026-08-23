@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @shohrab2238
-- 👀 I want to learn
+Noting
